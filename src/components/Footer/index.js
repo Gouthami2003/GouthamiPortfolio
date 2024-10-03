@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Amit Gangwar</Logo>
+        <Logo>Gouthami</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -100,21 +100,11 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.twit} target="display">
-            <img
-              src="https://cdn-icons-png.freepik.com/256/124/124021.png?semt=ais_hybrid"
-              alt="twitter"
-              width={27}
-              height={27}
-            />
-          </SocialMediaIcon>
+          
+          
 
-          <SocialMediaIcon href={Bio.gfg} target="display">
-            <SiGeeksforgeeks />
-          </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.cf} target="display">
-            <Icon icon="simple-icons:codeforces" color="#69f" />
-          </SocialMediaIcon>
+         
+          
           <SocialMediaIcon href={Bio.leet} target="display">
             <img
               src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png"
@@ -123,14 +113,8 @@ function Footer() {
               height={32}
             />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.codecf} target="display">
-            <img
-              src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"
-              alt="LeetCode"
-              width={32}
-              height={32}
-            />
-          </SocialMediaIcon>
+         
+         
           <SocialMediaIcon href={Bio.hack} target="display">
             <img
               src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAWlBMVEUNFB4A6mT///8AAAANEh4NBR0A6GQNABoACxgFDhoNABcA7WU5PUMkKTAHm0gFv1UAABOwsbO/wMLr7O0AAAUYHibx8fKLjI8AAAuZmp0Jdjusra68vb/39/dMlznKAAAA/ElEQVR4nO3cOQ7CMBRF0YCBBMI8j/vfJkICiriBSETi65z6Fb5KFRcuCgAAAAAAAAAAAAAAAAAAAICPjRu+Xg3a6STucfK0bDrmq202Su/Gshy2UnYUuNv3mw5Z4vaUjTbVK/Bc90Yt1PNuEqtpdvb+KjVXaZ2vZs+PWM7rXhv1YqJQoUKFChUqVKhQoUKFChUqVKhQoUKFChX+uPCSMtdYhbdN5har8DMKFSpUqFChQoUKFSpUqFDhvxfG/8ePf08T/65NoUKFChUqVKhQoUKFChUqVKhQoUKFChVGLIz/pkL8dzGK+G+bAAAAAAAAAAAAAAAAAAAAAH/tDsvlYejehUEgAAAAAElFTkSuQmCC"
@@ -149,7 +133,7 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
 
-        <Copyright>&copy; 2023 Amit Gangwar. All rights reserved.</Copyright>
+        <Copyright>&copy; 2023 Gouthami. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

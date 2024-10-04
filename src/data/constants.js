@@ -116,30 +116,20 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://th.bing.com/th?id=OIP.C_k-z_rtrCRLWztlj2etZAAAAA&w=277&h=225&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
-    role: "Content Manager",
-    company: "SEVA (NGO)",
-    date: "July 2022 - Dec 2022",
-    desc: " I am responsible for managing, designing, and posting engaging and visually appealing content on the organization Instagram account..",
-    skills: ["Designing", "Video Editing", "Canva"],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    img: "https://media.licdn.com/dms/image/C4D12AQHR9MzmAGOCnQ/article-cover_image-shrink_720_1280/0/1652858662181?e=2147483647&v=beta&t=64A8nVn_BnDUjlv7ORpSgBZ6ouIMNerplqpkzbt7BUU",
+    role: "AICTE OIB-SIP Internship",
+    company: "Oasis Infobyte",
+    date: "15/11/2023 to 15/12/2023",
+    desc: "Completed Internship in oasis infobyte in web development and designing And recieved certificate",
+    
   },
   {
     id: 0,
-    img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=608,fit=crop,q=95/Aq20eV79zLfpXV6b/logo-png-mnl7npnlXjHPl9KV.png",
-    role: "Web Development Intern",
-    company: "CodeSoft",
+    img: "https://media.istockphoto.com/id/1380369667/vector/team-of-people-reach-star-spherical-logo.jpg?s=612x612&w=0&k=20&c=Tml1R2b5Hb8SGPRjLK-4yTGstjb7tSd1SPzuriA_VSc=",
+    role: "Societal Internship",
     date: "August 2023 - Sept 2023",
-    desc: "Working on the frontend of the web application using html,css,javascript,ReactJS, Redux, and Material UI.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
+    desc: "Visited local Grama panchayath and developed website for inputing problem Statements",
+    
     // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
 ];
@@ -211,7 +201,7 @@ export const projects = [
     image: "https://w7.pngwing.com/pngs/509/849/png-transparent-e-commerce-omnichannel-online-shopping-sales-retail-online-shop-service-people-business-thumbnail.png",
     tags: ["MEAN stack", "Selenium WebDriver", "Python", "unittest", "ChromeDriver", "Pandas"],
     category: "web app",
-    github: "https://github.com/Xerox563/Random-color-generator",
+    github: "https://github.com/Gouthami2003/AutomatedE-CommWebsite.git",
     webapp: "https://random-color-generator-amit.netlify.app/",
   },
   

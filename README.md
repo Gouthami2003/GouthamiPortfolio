@@ -12,7 +12,7 @@ Welcome to my portfolio website built with React and Styled Components. This pro
 
 ## Demo
 
-You can view a live demo of my portfolio [here](https://portfolio-amit7.netlify.app/).
+You can view a live demo of my portfolio [here](https://gouthami-portfolio.vercel.app/).
 
 
 

@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Gouthami2003",
   resume:
-    "C:\Users\Gouthami\Desktop\Gouthami (RESUME).pdf",
+    "https://drive.google.com/file/d/1GO8h2F5aOWo4o2NdzwXEHni3Kih0A8HU/view?usp=drive_link",
   linkedin: "linkedin.com/in/gouthami29",
   gfg: "https://auth.geeksforgeeks.org/user/xerox7",
   linked: "linkedin.com/in/gouthami29",

@@ -189,7 +189,7 @@ export const projects = [
     tags: ["Python", "Flask", "MongoDB", "Web3.py","hardhat","Waitress", "HTML/CSS", "smtplib"
     ],
     category: "web app",
-    github: "https://github.com/Xerox563/note-keeper",
+    github: "https://github.com/Gouthami2003/SalaryDisbursement-Blockchain-..git",
     webapp: "",
   },
   {
